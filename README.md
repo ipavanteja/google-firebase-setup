@@ -62,8 +62,7 @@ Here's how you can integrate Firebase authentication in a React project:
 1. **Import Auth Utility Function:** Import the `signInWithGooglePopup` function in your component.
 
 ```javascript
-import { signInWithGooglePopup } from "path-to-your-file
-";
+import { signInWithGooglePopup } from "path-to-your-file";
 ```
 
 2. **Use Authentication Function:** Call the authentication function in your component.
